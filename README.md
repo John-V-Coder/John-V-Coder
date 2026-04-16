@@ -97,5 +97,5 @@ Platform supporting environmental initiatives with data-driven full-stack implem
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-johnvernestomondi%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:johnvernestomondi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOURUSERNAME-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+[![Email](https://img.shields.io/badge/Email-omondijohn%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:omondijohn@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-John-V-Coder-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
