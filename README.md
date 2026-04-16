@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer · AI automations · IT Infrastructure**
 
-📍 Nairobi, Kenya &nbsp;|&nbsp; ✉️ johnvernestomondi@gmail.com &nbsp;|&nbsp; 🟢 Open to opportunities
+📍 Nairobi, Kenya &nbsp;|&nbsp; ✉️ omondijohn@gmail.com &nbsp;|&nbsp; 🟢 Open to opportunities
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB)
