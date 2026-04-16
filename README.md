@@ -1,6 +1,6 @@
 # John Vernest Omondi
 
-**Full-Stack Software Engineer · Backend Systems · IT Infrastructure**
+**Full-Stack Software Engineer · AI automations · IT Infrastructure**
 
 📍 Nairobi, Kenya &nbsp;|&nbsp; ✉️ johnvernestomondi@gmail.com &nbsp;|&nbsp; 🟢 Open to opportunities
 
